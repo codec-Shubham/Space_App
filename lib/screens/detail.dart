@@ -5,7 +5,7 @@ import 'package:flutter_universe/data.dart';
 class DetailPage extends StatelessWidget {
   final PlanetInfo planetInfo;
 
-  const DetailPage({Key key, this.planetInfo}) : super(key: key);
+  const DetailPage({super.key, required this.planetInfo});
 
   @override
   Widget build(BuildContext context) {
