@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_universe/constant.dart';
-import 'package:flutter_swiper/flutter_swiper.dart';
+import 'package:card_swiper/card_swiper.dart';
 import 'package:flutter_universe/data.dart';
 import 'package:flutter_universe/screens/detail.dart';
 
